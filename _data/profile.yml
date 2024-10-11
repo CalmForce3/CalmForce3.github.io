@@ -42,10 +42,11 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 experience:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+- name: Yonsei Artificial Intelligence (YAI) Academic Club
+  logo: /assets/images/badges/yai_circle.png
+  position: Member of CV&NLP team
+  date: Jun.2024 - present
+
 
 Extracurricular Activities:
 - name: Yonsei University Computer Science Student Council
