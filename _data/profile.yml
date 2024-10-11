@@ -48,10 +48,16 @@ experience:
   date: Jun.2024 - present
 
 
-Extracurricular Activities:
+extracurricular:
 - name: Yonsei University Computer Science Student Council
+  role: Planning department member
   date: Mar.2021 - Nov.2022
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+
+projects:
+-name: 100 Olympic Sports Classification
+ description: Classifying 100 types of sports using various CNN models with classification models and evaluating the performance
+of each.
+ date: July 2024 – Aug. 2024
+-name: Military Crime Prediction Model
+ description: Using machine learning
+ date: May 2023 – Oct. 2023
