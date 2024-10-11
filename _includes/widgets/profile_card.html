@@ -36,6 +36,18 @@
                         {% endif %}
                     </div>
 
+                    <div class="text-profile-extracurricular mt-3">
+                        <h3>Extracurricular Activities</h3>
+                        <ul>
+                            {% for activity in site.data.profile.extracurricular_activities %}
+                            <li>
+                                <strong>{{ activity.name }}</strong> - {{ activity.date }}
+                            </li>
+                            {% endfor %}
+                        </ul>
+                   </div>
+
+
                     {% if site.data.profile.portrait_url %}
                     <!-- When the screen is smaller than md, place the portrait below the text -->
                     <div class="figure col-md-auto d-md-none">
